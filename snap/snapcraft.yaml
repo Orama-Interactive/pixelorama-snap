@@ -1,9 +1,9 @@
 name: pixelorama
 base: core18
-version: '0.10'
+version: '0.10.1'
 summary: Pixelorama sprite editor
 description: |
-  Free & open-source 2D sprite editor, made by Orama Interactive in the Godot Engine!
+  Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.
 
 
 icon: snap/gui/pixelorama.png
