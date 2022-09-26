@@ -1,6 +1,6 @@
 name: pixelorama
 base: core18
-version: '0.10.2'
+version: '0.10.3'
 summary: Pixelorama sprite editor
 description: |
   Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.
